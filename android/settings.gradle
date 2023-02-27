@@ -1,0 +1,11 @@
+include ':algAudio'
+rootProject.name = "algAudio-android"
+
+initOtherIncludeProjects()
+
+def initOtherIncludeProjects() {
+    // if ("$unity_library_debug_enable".toBoolean()) {
+    //     include ':unityLibrary'
+    //     project(':unityLibrary').projectDir = new File(settingsDir, '../unity-android/unityLibrary')
+    // }
+}
