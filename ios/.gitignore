@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+Data
+
+#VSCode
+.vs
+.vscode/
+
+#cocoapod
+Podfile.lock
+Pods/
+
+#Xcode
+*xcuserdata
+*.xcworkspace
